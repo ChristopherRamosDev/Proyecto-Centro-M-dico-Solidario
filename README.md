@@ -1,7 +1,8 @@
 # Proyecto-Centro-Médico-Solidario
 
 ## Información básica
-Proyecto de gestión de HC con reportes y roles para el Centro Médico Solidario, todos los datos usados son de prueba, por motivos de cantidad de archivos no se puede adjuntar el proyecto, para mas información para ver el proyecto contáctame a chrisandre23@gmail.com 
+Proyecto de gestión de HC con reportes y roles para el Centro Médico Solidario, todos los datos usados son de prueba, por motivos de cantidad de archivos no se puede adjuntar el proyecto, para mas información para ver el proyecto contáctame a chrisandre23@gmail.com
+Proyecto relizado con Html, CSS, Js, PHP, SQL, MySql, Bootstrap 4 y Datatables.
 ![WhatsApp Image 2021-05-31 at 8 59 24 PM](https://user-images.githubusercontent.com/77753659/120256145-21330d00-c253-11eb-90c8-b6910ff135bc.jpeg)
 
 ![WhatsApp Image 2021-05-31 at 9 00 04 PM](https://user-images.githubusercontent.com/77753659/120256211-43c52600-c253-11eb-8906-ddaa6fce2f3a.jpeg)
